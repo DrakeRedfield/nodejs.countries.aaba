@@ -1,6 +1,6 @@
 # Countries
 
-Esta es una aplicación de consola hecha con NodeJS donde podrás registrar buscar la locación que prefieras y conocer su latitud, longitud y el clima actual del lugar.
+Esta es una aplicación de consola hecha con NodeJS donde podrás buscar la locación que prefieras y conocer su latitud, longitud y el clima actual del lugar.
 
 # Instalación
 
